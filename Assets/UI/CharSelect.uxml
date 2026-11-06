@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprite/UI/a0b44yVZG6xneuQqGEgxNyzAxlmouy8Ipo0bUlJjRDfF9dQS1eD3AHU-t8xnioHyGdqSZpgsmMIM6FMAdgaWVaohuAdniRkNzSuMbMW4RqOV_G-t-9pRFfONueek3ZeyqnQEj5NzZo4UIcut4_2hL3ilfw.jpg?fileID=1976876779938335842&amp;guid=92956add26c3d934b9cffb47314c7db6&amp;type=3#a0b44yVZG6xneuQqGEgxNyzAxlmouy8Ipo0bUlJjRDfF9dQS1eD3AHU-t8xnioHyGdqSZpgsmMIM6FMAdgaWVaohuAdniRkNzSuMbMW4RqOV_G-t-9pRFfONueek3ZeyqnQEj5NzZo4UIcut4_2hL3ilfw_0&quot;);">
+        <ui:VisualElement name="RightOption" style="flex-grow: 1; position: absolute; height: 1072px; width: 970px; top: 1px; left: 947px; color: rgba(27, 27, 27, 0.82); background-color: rgba(0, 0, 0, 0.75);">
+            <ui:VisualElement name="Bandit" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Map3_th/Sprite%20map3/Character3(TranHieu)/sBanditIdle.png?fileID=-8358038424161893266&amp;guid=c50fa109f3549c04ea18ed87a9a71fe8&amp;type=3#sBanditIdle_0&quot;); position: absolute; height: 302px; width: 252px; top: 406px; left: 338px;"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="LeftOption" style="flex-grow: 1; position: absolute; height: 1072px; width: 978px; top: 7px; left: -21px; color: rgba(27, 27, 27, 0.82); background-color: rgba(0, 0, 0, 0.75);">
+        <ui:VisualElement name="Bandit" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprite/Character/sCommandoIdle.png?fileID=1298466875209496208&amp;guid=babe47206535adc448673a85b5b01555&amp;type=3#sCommandoIdle_0&quot;); position: absolute; height: 302px; width: 252px; top: 406px; left: 338px;"/>
+    </ui:VisualElement>
+    <ui:Label text="CHỌN NHÂN VẬT" name="text" style="color: rgb(255, 255, 255); font-size: 100px; position: absolute; top: 112px; left: 525px;"/>
+</ui:UXML>

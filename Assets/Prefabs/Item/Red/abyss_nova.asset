@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ce30fc329aee14aabebc13c4923537, type: 3}
+  m_Name: abyss_nova
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: abyss_nova
+  itemName: Abyss Nova
+  description: "T\u1EA5t c\u1EA3 m\u1ECDi \u0111\xF2n \u0111\xE1nh ph\xE1t n\u1ED5."
+  itemIcon: {fileID: 6468383457458004999, guid: c0a5fb20cdb9a7b448a2e943bd0a96f7, type: 3}
+  rarity: 2

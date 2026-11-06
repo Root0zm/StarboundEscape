@@ -1,0 +1,130 @@
+# Unity generated files. Keep Assets, Packages, ProjectSettings and source .meta files.
+# Based on https://github.com/github/gitignore/blob/main/Unity.gitignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Pp]rofiler[Cc]aptures/
+/[Rr]ecordings/
+/UIElementsSchema/
+/.utmp/
+*.log
+
+# Local IDE and Unity Version Control metadata
+/.vs/
+/.idea/
+/.gradle/
+/.consulo/
+/.plastic/
+/ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+/UpgradeLog*.htm
+/UpgradeLog*.html
+sysinfo.txt
+.dirstamp
+mono_crash.*
+tmpinst-dir.stamp
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Build artifacts and crash recovery
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+*.apk
+*.aab
+*.obb
+*.app
+*.unitypackage
+*.unitypackage.meta
+crashlytics-build.properties
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/**/*.blend1
+/Assets/**/*.blend1.meta
+
+# Generated Unity tools and Addressables content
+/Assets/Plugins/Editor/JetBrains*
+/Assets/AddressableAssetsData/*/addressables_content_state.bin
+/Assets/AddressableAssetsData/*/addressables_content_state.bin.meta
+/Assets/AddressableAssetsData/link.xml
+/Assets/AddressableAssetsData/link.xml.meta
+/Assets/Addressables_Temp/
+/Assets/Addressables_Temp.meta
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+/ServerData/
+/Assets/GeneratedLocalRepo/
+/Assets/GeneratedLocalRepo.meta
+/Assets/Plugins/Android/**/*.gradle.backup*
+/Assets/Plugins/Android/**/local.properties
+/Assets/Resources/PerformanceTestRunInfo.json
+/Assets/Resources/PerformanceTestRunInfo.json.meta
+/Assets/Resources/PerformanceTestRunSettings.json
+/Assets/Resources/PerformanceTestRunSettings.json.meta
+/Assets/InitTestScene*.unity
+/Assets/InitTestScene*.unity.meta
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/Assets/SceneDependencyCache*
+
+# Unused source folders excluded by project owner
+/Sprite/
+/Sprite.meta
+/Sprite (1)/
+/Sprite (1).meta
+/Sprite(1)/
+/Sprite(1).meta
+/Assets/Map2/
+/Assets/Map2.meta
+/Assets/Map3_th/
+/Assets/Map3_th.meta
+/Assets/Map5_lanh/
+/Assets/Map5_lanh.meta
+/Assets/Audio/
+/Assets/Audio.meta
+/Assets/Sprite/
+/Assets/Sprite.meta
+/Assets/Tiles/
+/Assets/Tiles.meta
+
+# Exclude scenes with an opening parenthesis, including an unclosed team name.
+# Ignore matching .meta files together; keep scenes without parentheses.
+/Assets/Scenes/**/*(*.unity
+/Assets/Scenes/**/*(*.unity.meta
+/Assets/Scenes/**/*\)*.unity
+/Assets/Scenes/**/*\)*.unity.meta
+
+# Additional unused scenes confirmed by project owner
+/Assets/Scenes/Sample.unity
+/Assets/Scenes/Sample.unity.meta
+/Assets/Scenes/Map2.unity
+/Assets/Scenes/Map2.unity.meta

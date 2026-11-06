@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="back" style="flex-grow: 1; background-color: rgb(5, 6, 32);"/>
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprite/UI/newlogo.aseprite?fileID=-8328923581568760697&amp;guid=cd966797707ea144687539d3365ef058&amp;type=3#newlogo&quot;); position: absolute; height: 1444px; width: 1472px; top: -590px; left: 430px;"/>
+</ui:UXML>

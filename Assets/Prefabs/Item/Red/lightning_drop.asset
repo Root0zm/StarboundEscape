@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ce30fc329aee14aabebc13c4923537, type: 3}
+  m_Name: lightning_drop
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: lightning_drop
+  itemName: Lightning Drop
+  description: "C\xF3 t\u1EC9 l\u1EC7 tri\u1EC7u h\u1ED3i tia s\xE9t \u0111\xE1nh
+    k\u1EBB \u0111\u1ECBch khi \u0111\xE1nh tr\xFAng"
+  itemIcon: {fileID: -5172759438567768617, guid: 42c32f6ab69b10c47963eebabde006ce, type: 3}
+  rarity: 2

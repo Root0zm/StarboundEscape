@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ladder
+  - Enemy
+  - PlayerAttack
+  tags: []
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Foreground
+  - Player
+  - Projectile
+  - Enemy
+  - Climbable
+  - EnemyProjectile
+  - Interactable
+  - Boundary
+  - Platform
+  - Boss
+  - Item
+  - Ground
+  - Bullet
+  - Itemm3
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1487362589
+    locked: 0
+  - name: Moon
+    uniqueID: 471917653
+    locked: 0
+  - name: Ground
+    uniqueID: 3493604445
+    locked: 0
+  - name: Foreground
+    uniqueID: 424739455
+    locked: 0
+  - name: Enemy
+    uniqueID: 2653614919
+    locked: 0
+  - name: Player
+    uniqueID: 3224706793
+    locked: 0
+  - name: Projectile
+    uniqueID: 94699783
+    locked: 0
+  - name: UI
+    uniqueID: 242330377
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

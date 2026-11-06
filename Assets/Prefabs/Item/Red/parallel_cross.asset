@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ce30fc329aee14aabebc13c4923537, type: 3}
+  m_Name: parallel_cross
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: parallel_cross
+  itemName: Parallel Cross
+  description: "C\xF3 l\u1EBD s\u1EBD c\xF3 t\xE1c d\u1EE5ng \u0111\u1EB7c bi\u1EC7t
+    n\xE0o \u0111\xF3"
+  itemIcon: {fileID: 2182332194121771446, guid: 82f75a6b5b0801543b3615282740c772, type: 3}
+  rarity: 3

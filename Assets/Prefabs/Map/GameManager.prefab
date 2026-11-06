@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3523382888238007946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8132073190793579658}
+  - component: {fileID: 6688948901180956432}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8132073190793579658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3523382888238007946}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.06141, y: -0.88944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6688948901180956432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3523382888238007946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fb386313aea3d14dad82b2f0c6aaefb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  totalEndGameBosses: 1
+  savedData:
+    health: 0
+    gold: 0
+    items: []
+    hasSavedData: 0
+  gameDifficultyCoeff: 0.3
+  difficultyTimer: 0
+  levelNormalBGM: {fileID: 8300000, guid: e09de2c39fc4f934a8c66e52c5c27253, type: 3}
+  bossFightBGM: {fileID: 8300000, guid: 7539918024bd76f468e7c641f255fa90, type: 3}
+  victorySound: {fileID: 8300000, guid: 6f8031a5bc2a0524d81efc2f7677bd59, type: 3}
+  defeatSound: {fileID: 8300000, guid: 2108f7574b2294c4fbad69e33f9c8c4e, type: 3}
+  gameStartTime: 0
+  enemiesKilledCount: 0
+  bossesKilledCount: 0
+  playerDeathCount: 0
+  totalGoldCollected: 0
+  totalItemsCollected: 0
+  levelsCompletedCount: 0
